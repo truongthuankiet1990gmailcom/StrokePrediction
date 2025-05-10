@@ -169,14 +169,13 @@ To assess and rank features quantitatively, we applied two commonly used statist
 
 ---
 # 7. Project Structure
-.
-├── Data/ # Dataset
-├── Data_Preprocessing/ # Data cleaning and transformation
-├── Data_Exploration/ # EDA notebooks and visualizations
-├── Modelling/ # Model building and evaluation
-├── Questions/ # Analytical Q&A notebooks
-├── Reflection/ # Team learning reflections
-├── README.md # This file
+-- Data/ --> Contains the dataset
+   ---- Data_Preprocessing/ --> Handles data cleaning and transformation
+   ---- Data_Exploration/ --> Includes EDA notebooks and visualizations
+   ---- Modelling/ --> Focuses on model building and evaluation
+   ---- Questions/ --> Stores analytical Q&A notebooks
+   ---- Reflection/ --> Holds team learning reflections
+--> README.md --> Provides project overview and instructions
 
 ---
 # 8. Run the project locally
