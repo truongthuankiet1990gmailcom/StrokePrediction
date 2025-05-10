@@ -56,7 +56,7 @@ Our final model achieves strong performance in classifying stroke cases. With in
 1. The dataset has the imbalance in stroke feature
 <img src = "Images/gender_stroke.png">
 <img src = "Images/hypertension_stroke.png">
-<img src = "Images/heart_stroke.png>
+<img src = "Images/heart_stroke.png">
 
 2. **Age, hypertension, and BMI** have strong influence on stroke probability.
 <img src = "Images/corr_matrix.png">
@@ -71,7 +71,7 @@ Our final model achieves strong performance in classifying stroke cases. With in
 - **`Average Glucose Level:`** 0.0041, highly significant (p = 0.000 < 0.001). For each unit increase in average glucose level, the odds of having a stroke increase by 𝑒^0.0041 ≈ 1.004 (a 0.4% increase).
 
 &rarr; **`Age`** and **`Average Glucose Level`** seem to be strong predictors of stroke based on their significance and effect size.    
-<img src = "Images/ols.png>
+<img src = "Images/ols.png">
 
 4. Visualizations showed clear differences in stroke distribution across age and gender.
 - Stroke rates are extremely low for patients under 40 years old, regardless of glucose levels.
