@@ -1,6 +1,6 @@
 # 🧠 Healthcare Stroke Prediction
 
-<img src="images/dataset-cover.jpg">
+<img src="Images/dataset-cover.jpg">
 
 # 1. 📌 Description
 This is an end-to-end data science project focused on analyzing and predicting stroke risk using patient health indicators. The project utilizes supervised classification techniques to determine whether a person is likely to experience a stroke, based on labeled data.
