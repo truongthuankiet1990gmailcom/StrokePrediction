@@ -168,17 +168,8 @@ To assess and rank features quantitatively, we applied two commonly used statist
     - The XGBoost model generalizes well to unseen data and shows no signs of overfitting thanks to good precision-recall balance across both classes.
 
 ---
-# 7. Project Structure
--- Data/ --> Contains the dataset
-   ---- Data_Preprocessing/ --> Handles data cleaning and transformation
-   ---- Data_Exploration/ --> Includes EDA notebooks and visualizations
-   ---- Modelling/ --> Focuses on model building and evaluation
-   ---- Questions/ --> Stores analytical Q&A notebooks
-   ---- Reflection/ --> Holds team learning reflections
---> README.md --> Provides project overview and instructions
 
----
-# 8. Run the project locally
+# 7. Run the project locally
 
 1. Clone the repository:
     ```sh
@@ -196,11 +187,11 @@ To assess and rank features quantitatively, we applied two commonly used statist
     + If there are some libraries not included in your kernel, please run the command prompt and write `pip install required-library`.
 
 ---
-# 9. Dataset Source
+# 8. Dataset Source
 The dataset is publicly available from Kaggle:
 📎 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 ---
-# 10. Project Management
+# 9. Project Management
 🔗 Link to Jira Board:
 [Click here to open Jira Board](https://truongthuankiet1990.atlassian.net/jira/software/projects/DSPROG/boards/1/backlog)
